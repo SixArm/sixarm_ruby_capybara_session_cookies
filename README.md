@@ -1,15 +1,41 @@
-= SixArm.com » Ruby » Capybara session cookies for Rails testing
+# SixArm.com » Ruby » <br> Capybara session cookies for Rails testing
 
-Author:: Joel Parker Henderson, joel@joelparkerhenderson.com
-Copyright:: Copyright (c) 2012 Joel Parker Henderson
-License:: See LICENSE.txt file
+* Docs: <http://sixarm.com/sixarm_ruby_capybara_session_cookies/doc>
+* Repo: <http://github.com/sixarm/sixarm_ruby_capybara_session_cookies>
+* Email: Joel Parker Henderson, <joel@sixarm.com>
+
+
+## Introduction
 
 This gem wraps the code and writeup from Steve Richert at Collective Idea:
 http://collectiveidea.com/blog/archives/2012/01/05/capybara-cucumber-and-how-the-cookie-crumbles/
 
 All credit for this goes to Steve.
 
-From his writeup...
+For docs go to <http://sixarm.com/sixarm_ruby_capybara_session_cookies/doc>
+
+Want to help? We're happy to get pull requests.
+
+
+## Quickstart
+
+Install:
+
+    gem install sixarm_ruby_capybara_session_cookies
+
+Bundler:
+
+    gem "sixarm_ruby_capybara_session_cookies", "=1.0.0"
+
+Require:
+
+    require "sixarm_ruby_capybara_session_cookies"
+
+
+## Details
+
+
+From Steve's writeup...
 
 When I write a new Rails application, it often needs some sort of user authentication. 
 
