@@ -3,9 +3,9 @@
 Please see README
 =end
 
-require 'capybara'
-require 'rails'
-require 'action_dispatch'
+require "capybara"
+require "rails"
+require "action_dispatch"
 
 module Capybara
   class Session
