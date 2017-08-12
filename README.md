@@ -1,4 +1,4 @@
-# Ruby » <br> Capybara session cookies for Rails testing
+SixArm.com → Ruby → <br> Capybara session cookies for Rails testing
 
 * Doc: <http://sixarm.com/sixarm_ruby_capybara_session_cookies/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_capybara_session_cookies>
