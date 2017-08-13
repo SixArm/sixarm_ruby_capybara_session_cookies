@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_capybara_session_cookies"
-  s.summary           = "SixArm.com » Ruby » Capybara session cookies"
+  s.summary           = "SixArm.com → Ruby → Capybara session cookies"
   s.description       = "Capybara session cookies for Rails testing"
   s.version           = "1.0.2"
 
