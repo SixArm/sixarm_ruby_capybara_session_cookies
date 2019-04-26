@@ -4,5 +4,5 @@ require "simplecov"
 SimpleCov.start
 require "sixarm_ruby_capybara_session_cookies"
 
-class MyTest < Test::Unit::TestCase
+class MyTest < Minitest::Test
 end
