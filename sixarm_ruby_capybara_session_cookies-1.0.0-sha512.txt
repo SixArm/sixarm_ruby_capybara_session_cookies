@@ -1,1 +1,0 @@
-5b1958e3cd33737c6decdf5c647dfa485e398a5d5e871ba972f61191fa1256f9632e9562ce170fc613d46666a5dabba599dd2eadee1d5f4a5a4afe21fdf5be8d  sixarm_ruby_capybara_session_cookies-1.0.0.gem
